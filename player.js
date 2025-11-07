@@ -1,8 +1,4 @@
-const enemyImage=new Image();
-enemyImage.src ="player.png"
-
-export const player ={
-
+export const player = {
     x: 0,
     y: 0,
     width: 30,
